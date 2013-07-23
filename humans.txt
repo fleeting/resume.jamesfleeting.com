@@ -1,0 +1,16 @@
+# The humans responsible & technology colophon
+# humanstxt.org
+
+
+# TEAM
+
+    James Fleeting -- Front End Developer -- @twofivethreetwo
+
+# THANKS
+
+    To the internet!
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, jQuery, Modernizr, Foundation
+    git, Sublime Text
